@@ -1,0 +1,6 @@
+name: AwsCloudfrontPulumi
+runtime:
+  name: python
+  options:
+    virtualenv: venv
+description: AWS Python Pulumi program to create and maintain a cloudfront distribution
