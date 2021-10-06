@@ -1,2 +1,4 @@
 config:
   aws:region: us-east-1
+  cloudflare:apiKey: 8e622c6069d6827c4d1748d7e2ad6f46eb787
+  cloudflare:email: doroftei1999@yahoo.com
